@@ -1,0 +1,34 @@
+{
+  "projects": [
+    {
+      "id": "website-redesign",
+      "name": "Website redesign",
+      "description": "Refresh the product experience and visual identity.",
+      "status": "In progress",
+      "progress": 68,
+      "updated": "Updated today",
+      "color": "bg-violet-100 text-violet-700",
+      "initials": "WR"
+    },
+    {
+      "id": "mobile-app",
+      "name": "Mobile app",
+      "description": "A simpler way to manage work while on the go.",
+      "status": "Planning",
+      "progress": 22,
+      "updated": "Updated yesterday",
+      "color": "bg-sky-100 text-sky-700",
+      "initials": "MA"
+    },
+    {
+      "id": "brand-guidelines",
+      "name": "Brand guidelines",
+      "description": "One home for our voice, colors, and design assets.",
+      "status": "Completed",
+      "progress": 100,
+      "updated": "Updated Oct 18",
+      "color": "bg-amber-100 text-amber-700",
+      "initials": "BG"
+    }
+  ]
+}
